@@ -1,7 +1,9 @@
 import numpy as np
 
 
-banana = 1
+
+banana = 2
+
 
 
 print(banana)
