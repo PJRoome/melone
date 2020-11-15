@@ -1,7 +1,7 @@
 import numpy as np
 
 
-banana = np.pi + 233676
+banana = 1
 
 
 print(banana)
